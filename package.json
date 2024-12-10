@@ -1,0 +1,19 @@
+{
+  "name": "@sponsorcoin/spcoin-all-modules",
+  "version": "1.0.0",
+  "description": "Collection of Sponsorcoins modules int one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sponsorCoinAdmin/spcoin-all-modules.git"
+  },
+  "author": "Robert Lanson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sponsorCoinAdmin/spcoin-all-modules/issues"
+  },
+  "homepage": "https://github.com/sponsorCoinAdmin/spcoin-all-modules#readme"
+}
