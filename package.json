@@ -1,7 +1,7 @@
 {
   "name": "@sponsorcoin/spcoin-all-modules",
   "version": "1.0.0",
-  "description": "Collection of Sponsorcoins modules int one",
+  "description": "Collection of All Sponsor Coins modules int one",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
