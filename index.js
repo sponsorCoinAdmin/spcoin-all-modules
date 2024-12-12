@@ -1,12 +1,13 @@
-const { SpCoinAccessModules } = require("../spcoin-access-modules/index");
-const { 
-  WethMethods,
-  ETHEREUM,
-  POLYGON,
-  HARDHAT,
-  BURN_ADDRESS 
-}  = require("../spcoin-weth-module/index")
-// }  = require("@sponsorcoin/weth-module/wethMethods")
+
+// The following 2 lines determine if this is to be run from a local deployment or an NPM Directory deployment.
+// Use one line or the other depending on your source requirements.
+// const { SpCoinAccessModules } = require("../spcoin-access-modules/index");
+const { SpCoinAccessModules } = require("@sponsorcoin/spcoin-access-modules/index");
+
+
+// const {  WethMethods, ETHEREUM, POLYGON, HARDHAT, BURN_ADDRESS }  = require("../spcoin-weth-module/index")
+
+const {  WethMethods, ETHEREUM, POLYGON, HARDHAT, BURN_ADDRESS }  = require("@sponsorcoin/spcoin-weth-module/index")
 
 // const {
 //   WethMethods,

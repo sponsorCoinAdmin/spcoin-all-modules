@@ -1,6 +1,6 @@
 {
   "name": "@sponsorcoin/spcoin-all-modules",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Collection of All Sponsor Coins modules int one",
   "main": "index.js",
   "scripts": {
